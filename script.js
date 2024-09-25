@@ -1,4 +1,3 @@
-// Hero Section Scroll Down Animation
 const scrollDown = document.querySelector('.scroll-down');
 
 scrollDown.addEventListener('click', () => {
